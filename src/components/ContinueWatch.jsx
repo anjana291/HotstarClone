@@ -6,8 +6,8 @@ import Card from 'react-bootstrap/Card';
 function ContinueWatch() {
   return (
     <>
-    <div className='ml-28 pl-2'>
-      <h1 className='text-white text-2xl font-bold mt-5'>Continue Watching for User</h1>
+    <div className='ml-2 sm:ml-28 pl-2'>
+      <h1 className='text-white text-2xl font-bold mt-4 mb-5'>Continue Watching for User</h1>
       <div className='grid grid-cols-4 gap-7'>
         <div className='text-white'>
         <Card style={{ width: '18rem' }}>

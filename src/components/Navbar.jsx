@@ -5,7 +5,7 @@ import React from 'react'
 function Navbar() {
   return (
     <>
-    <div className='grid grid-cols-2 bg-black h-screen w-28 fixed'>
+    <div className='grid grid-cols-2 bg-black h-screen w-28 fixed cursor-pointer'>
         <div>
             <img src="https://www.91-cdn.com/hub/wp-content/uploads/2023/09/disney-india-reliance.jpg" alt="" className='ml-5 mt-5'/>
             <FontAwesomeIcon icon={faCircleUser} size='lg' style={{color:'white'}} className='ml-9 mt-12'/> 

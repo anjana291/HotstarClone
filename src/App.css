@@ -2,3 +2,33 @@ body{
     background-color: black;
     overflow-x: hidden;
 }
+
+.container {
+    position: relative;
+    display: inline-block;
+}
+.image img{
+    display: block;
+}
+.details{
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: none;
+    /* margin-top: -50px; */
+    z-index: 2;
+    /* transition: transform 0.3s ease-in-out; */
+    transition: transform .2s;
+}
+
+.container:hover .details {
+    display: block;
+    /* transform: translate3d(10px); */
+    transform: scale(1.5);
+}
+.sportdiv:hover .sportp{
+    display: block;
+}
+.sportdiv:hover .sporth{
+    font-size: 15px;
+}

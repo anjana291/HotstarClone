@@ -1,8 +1,10 @@
 import './App.css'
 import ContinueWatch from './components/ContinueWatch'
+import Footer from './components/Footer'
 import Home from './components/Home'
 import Latest from './components/Latest'
 import Navbar from './components/Navbar'
+import Sports from './components/Sports'
 
 
 function App() {
@@ -14,6 +16,8 @@ function App() {
      <Home/>
      <ContinueWatch/>
      <Latest/>
+     <Sports/>
+     <Footer/>
     </>
   )
 }
