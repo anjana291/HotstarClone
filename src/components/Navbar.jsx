@@ -7,14 +7,14 @@ function Navbar() {
     <>
     <div className='grid grid-cols-2 bg-black h-screen w-28 fixed cursor-pointer'>
         <div>
-            <img src="https://www.91-cdn.com/hub/wp-content/uploads/2023/09/disney-india-reliance.jpg" alt="" className='ml-5 mt-5'/>
-            <FontAwesomeIcon icon={faCircleUser} size='lg' style={{color:'white'}} className='ml-9 mt-12'/> 
-            <FontAwesomeIcon icon={faMagnifyingGlass} size='lg' style={{color:'white'}} className='ml-9 mt-10'/> 
-            <FontAwesomeIcon icon={faHouse} size='lg' style={{color:'white'}} className='ml-9 mt-10'/>
-            <FontAwesomeIcon icon={faTv} size='lg' style={{color:'white'}} className='ml-9 mt-10'/>
-            <FontAwesomeIcon icon={faClapperboard} size='lg' style={{color:'white'}} className='ml-9 mt-10'/>
-            <FontAwesomeIcon icon={faBasketball} size='lg' style={{color:'white'}} className='ml-9 mt-10'/>
-            <FontAwesomeIcon icon={faLayerGroup} size='lg' style={{color:'white'}} className='ml-9 mt-10'/>
+            <img src="https://www.91-cdn.com/hub/wp-content/uploads/2023/09/disney-india-reliance.jpg" alt="icon" className='ml-5 mt-5'/>
+            <FontAwesomeIcon icon={faCircleUser} size='lg' className='ml-9 mt-12 text-gray-500 hover:text-white'/> 
+            <FontAwesomeIcon icon={faMagnifyingGlass} size='lg'  className='ml-9 mt-10 text-gray-500 hover:text-white'/> 
+            <FontAwesomeIcon icon={faHouse} size='lg'  className='ml-9 mt-10 text-white'/>
+            <FontAwesomeIcon icon={faTv} size='lg'  className='ml-9 mt-10 text-gray-500 hover:text-white'/>
+            <FontAwesomeIcon icon={faClapperboard} size='lg'  className='ml-9 mt-10 text-gray-500 hover:text-white'/>
+            <FontAwesomeIcon icon={faBasketball} size='lg'  className='ml-9 mt-10 text-gray-500 hover:text-white'/>
+            <FontAwesomeIcon icon={faLayerGroup} size='lg'  className='ml-9 mt-10 text-gray-500 hover:text-white'/>
         </div>
     <div className='ml-1 w-24 bg-black text-slate-500 font-bold opacity-0 hover:opacity-100'>
         <h4 className='mt-24 ml-2 hover:text-white'>My Space</h4>

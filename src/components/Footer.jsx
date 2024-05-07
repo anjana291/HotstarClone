@@ -39,7 +39,7 @@ function Footer() {
                 <p>© 2024 ASTAR. All Rights Reserved</p>
                 <p className='mt-3'><span>Terms of Use</span>  <span className='ml-3'>Privacy Policy</span>  <span className='ml-3'>FAQ</span></p>
             </div>
-            <div className='flex mt-9 ml-72'>
+            <div className='flex mt-9 ml-64'>
                 <img src="https://freelogopng.com/images/all_img/1664287128google-play-store-logo-png.png" alt="" className='w-36'/>
                 <img src="https://www.pngkey.com/png/full/527-5270084_html-code-allows-you-to-embed-logo-appstore.png" alt="" className='w-36 ml-3' />
             </div>
