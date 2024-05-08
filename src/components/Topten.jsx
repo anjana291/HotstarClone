@@ -18,7 +18,7 @@ function Topten() {
       <div className='container'>
           <div className='image' >
             <img src="https://reviewpuram.in/wp-content/uploads/2024/02/Manjummel-Boys-Poster.jpg" alt="" className='rounded-lg' />
-            <img src={oneimg} alt="" style={{width:'100px',marginTop:'-90px',marginLeft:'-55px'}}/>
+            <img src={oneimg} alt="" style={{width:'100px',marginTop:'-85px',marginLeft:'-55px'}}/>
           </div>
           {/* Details Div */}
           <div className='details bg-black rounded-xl mt-8' style={{width:'200px'}}>
@@ -54,7 +54,7 @@ function Topten() {
       <div className='container'>
           <div className='image' >
             <img src="https://images.justwatch.com/poster/310338233/s718/12th-fail.jpg" alt="" className='rounded-lg' />
-            <img src={twoimg} alt="" style={{width:'100px',marginTop:'-90px',marginLeft:'-45px'}}/>
+            <img src={twoimg} alt="" style={{width:'100px',marginTop:'-76px',marginLeft:'-45px'}}/>
           </div>
           {/* Details Div */}
           <div className='details bg-black rounded-xl mt-8' style={{width:'200px'}}>
@@ -90,7 +90,7 @@ function Topten() {
       <div className='container'>
           <div className='image' >
             <img src="https://m.media-amazon.com/images/M/MV5BOGI3MTQ5MDUtNGJhMi00NDY1LWE2MDItODRlMGNkMWVmY2MwXkEyXkFqcGdeQXVyNjQ1MDcxNzM@._V1_.jpg" alt="" className='rounded-lg' />
-            <img src={threeimg} alt="" style={{width:'100px',marginTop:'-90px',marginLeft:'-45px'}}/>
+            <img src={threeimg} alt="" style={{width:'100px',marginTop:'-85px',marginLeft:'-45px'}}/>
           </div>
           {/* Details Div */}
           <div className='details bg-black rounded-xl mt-8' style={{width:'200px'}}>
@@ -126,7 +126,7 @@ function Topten() {
       <div className='container'>
           <div className='image' >
             <img src="https://assets.gadgets360cdn.com/pricee/assets/product/202404/Lootere_1712210445.jpg" alt="" className='rounded-lg' />
-            <img src={four} alt="" style={{width:'100px',marginTop:'-90px',marginLeft:'-45px'}}/>
+            <img src={four} alt="" style={{width:'100px',marginTop:'-68px',marginLeft:'-45px'}}/>
           </div>
           {/* Details Div */}
           <div className='details bg-black rounded-xl mt-8' style={{width:'200px'}}>
@@ -162,7 +162,7 @@ function Topten() {
       <div className='container'>
           <div className='image' >
             <img src="https://m.media-amazon.com/images/M/MV5BOWJkZDY1OWYtNTg0MC00OWU2LWJiMzMtNmM0NTlkNDEzOTIyXkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_.jpg" alt="" className='rounded-lg' />
-            <img src={five} alt="" style={{width:'100px',marginTop:'-90px',marginLeft:'-45px'}}/>
+            <img src={five} alt="" style={{width:'100px',marginTop:'-80px',marginLeft:'-45px'}}/>
           </div>
           {/* Details Div */}
           <div className='details bg-black rounded-xl mt-8' style={{width:'200px'}}>
@@ -198,7 +198,7 @@ function Topten() {
       <div className='container'>
           <div className='image' >
             <img src="https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/premalu-tamil-et00391009-1710506570.jpg" alt="" className='rounded-lg' />
-            <img src={six} alt="" style={{width:'100px',marginTop:'-90px',marginLeft:'-45px'}}/>
+            <img src={six} alt="" style={{width:'100px',marginTop:'-80px',marginLeft:'-45px'}}/>
           </div>
           {/* Details Div */}
           <div className='details bg-black rounded-xl mt-8' style={{width:'200px'}}>
