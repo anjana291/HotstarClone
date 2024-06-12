@@ -7,6 +7,7 @@ import threeimg from '../assets/threep.png'
 import four from '../assets/fourp.png'
 import five from '../assets/fivep.png'
 import six  from '../assets/sixp.png'
+import manjummel from '../assets/manjummel.jpg'
 
 function Topten() {
   return (
@@ -17,7 +18,7 @@ function Topten() {
       {/* First Movie */}
       <div className='container'>
           <div className='image' >
-            <img src="https://reviewpuram.in/wp-content/uploads/2024/02/Manjummel-Boys-Poster.jpg" alt="" className='rounded-lg' />
+            <img src={manjummel} alt="" className='rounded-lg' />
             <img src={oneimg} alt="" style={{width:'100px',marginTop:'-85px',marginLeft:'-55px'}}/>
           </div>
           {/* Details Div */}
@@ -192,7 +193,7 @@ function Topten() {
             </div>
 
           </div>
-        </div>
+        </div> 
 
         {/* 6th Movie */}
       <div className='container'>

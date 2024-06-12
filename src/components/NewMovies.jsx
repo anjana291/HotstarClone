@@ -7,6 +7,7 @@ import salaarH from '../assets/salaar.jpg'
 import salaarL from '../assets/salaarL.avif'
 import hanumanH from '../assets/hanuman-H.avif'
 import hanumanL from '../assets/hanumanL.webp'
+import manjummel from '../assets/manjummel.jpg'
 
 function NewMovies() {
   return (
@@ -18,7 +19,7 @@ function NewMovies() {
                 {/* First Movie */}
                 <div className='container'>
           <div className='image' >
-            <img src="https://reviewpuram.in/wp-content/uploads/2024/02/Manjummel-Boys-Poster.jpg" alt="" className='rounded-lg' />
+            <img src={manjummel} alt="" className='rounded-lg' />
           </div>
           {/* Details Div */}
           <div className='details bg-black rounded-xl mt-8' style={{width:'200px'}}>
